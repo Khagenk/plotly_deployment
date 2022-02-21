@@ -8,3 +8,4 @@ function updatePage() {
   console.log(dropdownMenuID);
   console.log(selectedOption);
 };
+
